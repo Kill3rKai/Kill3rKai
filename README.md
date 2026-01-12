@@ -30,11 +30,7 @@ Side projects > trends.
   </a>
 </p>
 
-**Lilly AI**  
-Long-term personal system.  
-Pink-themed. Opinionated.  
-She named herself.
-
+**Lilly AI** 
 > Repository contains project info — not source.
 
 ---
