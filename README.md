@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./Images/iconfile.jpg" alt="Kill3rKai logo" style="height:100px; vertical-align:middle; margin-right:20px;">
+  <img src="iconfile.jpg" alt="Kill3rKai logo" style="height:100px; vertical-align:middle; margin-right:20px;">
   <h1 style="display:inline; vertical-align:middle; margin:0; color:#eee;">Kill3rKai</h1>
 
 </div>
