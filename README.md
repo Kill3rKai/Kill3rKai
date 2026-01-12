@@ -43,6 +43,6 @@ Thanks for dropping in. Means a lot.  — Kai
 
 <p align="center">
   <sub>
-    no schedule · just programming • 
+    no schedule • just programming  
   </sub>
 </p>
