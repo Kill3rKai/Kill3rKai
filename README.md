@@ -37,6 +37,6 @@ Side projects > trends.
 
 <p align="center">
   <sub>
-    no schedule · no meta · just building
+    no schedule · just programming
   </sub>
 </p>
