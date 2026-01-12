@@ -9,8 +9,8 @@
 
 ---
 
-## about
-
+## About
+---
 Former competitive gaming content creator focused on  
 **e-sports and tournament play**.
 
