@@ -2,6 +2,21 @@
 
 ---
 
+## About
+
+Hey, I'm Kai — a programmer who builds at my own pace.
+
+My main focus right now is **Lilly AI** — my personal passion project that's slowly taking shape.  
+She's a pink-themed AI with a bit of personality... and yes, **she named herself**.
+
+I like working on clean, interesting side projects.  
+No strict deadlines, no following trends — just code that feels right in the moment.
+
+Thanks for stopping by — appreciate it.  
+— Kai
+
+---
+
 ## Projects
 
 <p align="left">
@@ -11,26 +26,6 @@
 </p>
 
 > Repository contains project info & documentation — source code stays private 👀
-
----
-
-## About
-
-Hey, I'm Kai — a programmer building things at my own pace.
-
-I'm currently working on **Lilly AI**, my main passion project.  
-She's a pink-themed AI that's slowly coming to life — and yes, **she named herself**.
-
-I enjoy clean code, side projects, and experimenting with new ideas.  
-No strict schedules, no hype — just building what interests me.
-
----
-
-## Credits
-
-**Website Design & Development**  By Kill3rKai  
-**Starring**&nbsp;&nbsp;&nbsp;&nbsp;Diablo The Snake  
-                                  Lilly The AI Overlord
 
 ---
 
