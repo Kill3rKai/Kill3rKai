@@ -35,41 +35,6 @@ Side projects > trends.
 
 ---
 
-## Socials
-
-<p align="left">
-  <a href="https://github.com/Kill3rKai">
-    <img src="https://img.shields.io/badge/GitHub-Kill3rKai-181717?style=flat&logo=github" />
-  </a>
-  <a href="https://www.twitch.tv/Kill3rKai">
-    <img src="https://img.shields.io/badge/Twitch-Kill3rKai-9146FF?style=flat&logo=twitch&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@Kill3rKai">
-    <img src="https://img.shields.io/badge/YouTube-Main-red?style=flat&logo=youtube" />
-  </a>
-  <a href="https://www.youtube.com/@CyberSecurityWithKill3rKai">
-    <img src="https://img.shields.io/badge/YouTube-Cyber-black?style=flat&logo=youtube" />
-  </a>
-</p>
-
----
-
-## Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,html,css&theme=dark" />
-</p>
-
----
-
-## Activity
-
-<p align="center">
-  <img src="https://github.com/Kill3rKai/Kill3rKai/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 <p align="center">
   <sub>
     no schedule · no meta · just building
