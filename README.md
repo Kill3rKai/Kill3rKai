@@ -35,7 +35,7 @@ Side projects > trends.
 
 ---
 
-## presence
+## Socials
 
 <p align="left">
   <a href="https://github.com/Kill3rKai">
@@ -54,7 +54,7 @@ Side projects > trends.
 
 ---
 
-## tools
+## Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,html,css&theme=dark" />
@@ -62,7 +62,7 @@ Side projects > trends.
 
 ---
 
-## activity
+## Activity
 
 <p align="center">
   <img src="https://github.com/Kill3rKai/Kill3rKai/blob/output/github-contribution-grid-snake.svg" />
