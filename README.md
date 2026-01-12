@@ -24,7 +24,7 @@ Thanks for stopping by. Appreciate it.  — Kai
   </a>
 </p>
 
-> Repository contains project info — not source.
+> Repository contains project info. not source code.
 
 ---
 
