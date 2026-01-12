@@ -29,8 +29,8 @@ No strict schedules, no hype — just building what interests me.
 ## Credits
 
 **Website Design & Development**  By Kill3rKai  
-**Starring**  Diablo The Snake  
-        Lilly The AI Overlord
+**Starring**                      Diablo The Snake  
+                                  Lilly The AI Overlord
 
 ---
 
