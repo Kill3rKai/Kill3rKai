@@ -33,8 +33,8 @@ Side projects > trends.
 **Lilly AI** 
 > Repository contains project info — not source.
 
----
 
+---
 <p align="center">
   <sub>
     no schedule · just programming
