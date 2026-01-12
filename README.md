@@ -1,21 +1,15 @@
-<div align="center" style="color:#eee;">
-
-  <img src="iconfile.jpg" alt="Kill3rKai logo" style="vertical-align:middle; height:80px;">
-  <h1 style="display:inline-block; vertical-align:middle; margin-left:20px; color:#eee;">Kill3rKai</h1>
-
-</div>
-
-<p align="center" style="color:#bbb;">
+<h1 align="center">Kill3rKai</h1>
+<p align="center">
   Programmer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?center=true&pause=2500&width=460&lines=building+things+at+my+own+pace;side+projects+over+hype;clean+systems+over+noise&color=EEE&background=111000" />
+  <img src="https://readme-typing-svg.demolab.com?center=true&pause=2500&width=460&lines=building+things+at+my+own+pace;side+projects+over+hype;clean+systems+over+noise" />
 </p>
 
 ---
 
-<h2 style="color:#aaa; text-transform:uppercase; letter-spacing:0.08em;">Projects</h2>
+## Projects
 
 <p align="left">
   <a href="https://github.com/Kill3rKai/Lilly_V2.5">
@@ -23,27 +17,24 @@
   </a>
 </p>
 
-<blockquote style="color:#ddd;">
-  Repository contains project info — not source.
-</blockquote>
+> Repository contains project info — not source.
 
 ---
 
-<h2 style="color:#aaa; text-transform:uppercase; letter-spacing:0.08em;">About</h2>
+## About
 
-<span style="color:#eee;">
-Former competitive gaming content creator focused on
-<strong>e-sports and tournament play</strong>.
-Stepped away when the scene shifted.
-Now building and playing <strong>without pressure</strong> —
+Former competitive gaming content creator focused on  
+**e-sports and tournament play**.
+
+Stepped away when the scene shifted.  
+Now building and playing **without pressure** —  
 sometimes competitive, sometimes chill.
+
 Side projects > trends.
-</span>
 
 ---
-
 <p align="center">
-  <sub style="color:#bbb;">
+  <sub>
     no schedule · just programming
   </sub>
 </p>
