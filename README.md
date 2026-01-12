@@ -1,54 +1,23 @@
-<h1 align="center">Kai</h1>
-<p align="center">
-  programmer · gamer · builder
-</p>
+<!-- 
+  Kai's GitHub – gamer turned casual player, building things on the side
+-->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&pause=3000&width=435&lines=building+things+slowly;no+meta+chasing;just+what+i+enjoy" />
-</p>
+Hey, I'm Kai.
 
----
+Used to be deep in competitive gaming — making videos, promoting tournaments, chasing the high-stakes rush.  
+Then the scenes I was in faded. Stepped away. No drama, just timing.
 
-### about
+These days I play whatever I feel like.  
+No metas, no schedules, no pressure — just games that look interesting that day,  
+or co-op sessions with friends when the mood hits.
 
-- former competitive gaming content creator  
-- stepped away from high-stakes scenes  
-- now building and playing **without pressure**
+On the side I'm slowly building **Lilly AI** — my own little passion project.  
+Pink-themed, slightly chaotic, and yes — she named herself.
 
-side project:
-- **Lilly AI** — long-term personal system  
-  > she named herself
+Repo (info & vibes only, code stays private):  
+https://github.com/Kill3rKai/Lilly_V2.5
 
----
+Thanks for stopping by.
 
-### currently
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kill3rKai&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kill3rKai&hide_border=true&theme=transparent" />
-</p>
-
----
-
-### tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,html,css&theme=dark" />
-</p>
-
----
-
-### activity
-
-<p align="center">
-  <img src="https://github.com/Kill3rKai/Kill3rKai/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<p align="center">
-  <sub>no schedule · no meta · just building</sub>
-</p>
+— Kai  
+@Kill3rKai
