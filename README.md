@@ -1,3 +1,4 @@
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?center=true&pause=1500&width=435&lines=cripplingly+addicted+to+coding;building+at+2+a.m.;pink+AI+in+progress;insomnia...;Lilly+AI;Kill3rKai" />
 </p>
