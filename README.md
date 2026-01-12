@@ -26,7 +26,7 @@ Thanks for dropping in. Means a lot.  — Kai
 
 ---
 
-## Projects
+# Projects
 
 <p align="left">
   <a href="https://github.com/Kill3rKai/Lilly_V2.5">
