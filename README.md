@@ -17,7 +17,7 @@ Can't leave ideas sitting there unfinished, it physically hurts me lol.
 ### Lilly AI  
 Main thing eating my time right now is **Lilly AI**.  
 Pink-themed, chaotic in the best way. Still very much in progress...  
-Progress updates and more links are on my site: [website](https://kill3rkai.github.io/SocialLinks/)   
+Progress updates and more links are on my site: [SocialLinks](https://kill3rkai.github.io/SocialLinks/)   
 The same site will show you if i have new projects coming up — though, you can see the same here
 
 ---
