@@ -1,5 +1,7 @@
 <h1 align="center">Kill3rKai</h1>
+
 ---
+
 ## About
 
 I'm Kai — a programmer who builds at my own pace. *im cripplingly addicted to programming*
@@ -14,6 +16,7 @@ Thanks for stopping by — appreciate it.
 — Kai
 
 ---
+
 ## Projects
 
 <p align="left">
@@ -25,6 +28,7 @@ Thanks for stopping by — appreciate it.
 > Repository contains project info — not source.
 
 ---
+
 <p align="center">
   <sub>
     no schedule · just programming
