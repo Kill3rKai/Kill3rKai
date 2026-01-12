@@ -42,6 +42,13 @@ Thanks for dropping in. Means a lot.  — Kai
 ---
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Kill3rKai&theme=dracula&hide_border=true&border_radius=6" />
+    <img src="https://streak-stats.demolab.com?user=Kill3rKai&theme=light&hide_border=true&border_radius=6" alt="GitHub Streak" />
+  </picture>
+</p>
+
+<p align="center">
   <sub>
     no schedule · just programming
   </sub>
