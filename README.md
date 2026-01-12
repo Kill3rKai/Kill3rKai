@@ -22,7 +22,7 @@ Side projects > trends.
 
 ---
 
-## projects
+## Projects
 
 <p align="left">
   <a href="https://github.com/Kill3rKai/Lilly_V2.5">
