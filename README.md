@@ -1,6 +1,6 @@
 <div align="center" style="color:#eee;">
 
-  <img src="https://placeholder.com/120x120?text=Logo" alt="Kill3rKai logo" style="vertical-align:middle; height:80px;">
+  <img src="iconfile.jpg" alt="Kill3rKai logo" style="vertical-align:middle; height:80px;">
   <h1 style="display:inline-block; vertical-align:middle; margin-left:20px; color:#eee;">Kill3rKai</h1>
 
 </div>
