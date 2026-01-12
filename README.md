@@ -1,33 +1,21 @@
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="iconfile.jpg" width="120" alt="Kill3rKai logo" />
-    </td>
-    <td align="center">
-      <h1 style="margin: 0;">Kill3rKai</h1>
-      <sub>Programmer</sub>
-    </td>
-  </tr>
-</table>
+<div align="center" style="color:#eee;">
+
+  <img src="https://placeholder.com/120x120?text=Logo" alt="Kill3rKai logo" style="vertical-align:middle; height:80px;">
+  <h1 style="display:inline-block; vertical-align:middle; margin-left:20px; color:#eee;">Kill3rKai</h1>
+
+</div>
+
+<p align="center" style="color:#bbb;">
+  Programmer
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?center=true&pause=2500&width=500&lines=building+things+at+my+own+pace;side+projects+over+hype;clean+systems+over+noise" />
+  <img src="https://readme-typing-svg.demolab.com?center=true&pause=2500&width=460&lines=building+things+at+my+own+pace;side+projects+over+hype;clean+systems+over+noise&color=EEE&background=111000" />
 </p>
 
 ---
 
-## 🧠 About
-
-Former competitive gaming content creator focused on  
-**e-sports and tournament play**.
-
-Stepped away when the scene shifted.  
-Now building and playing **without pressure** —  
-sometimes competitive, sometimes chill.
-
----
-
-## Projects
+<h2 style="color:#aaa; text-transform:uppercase; letter-spacing:0.08em;">Projects</h2>
 
 <p align="left">
   <a href="https://github.com/Kill3rKai/Lilly_V2.5">
@@ -35,10 +23,27 @@ sometimes competitive, sometimes chill.
   </a>
 </p>
 
-> Repository contains project info — not source.
+<blockquote style="color:#ddd;">
+  Repository contains project info — not source.
+</blockquote>
+
+---
+
+<h2 style="color:#aaa; text-transform:uppercase; letter-spacing:0.08em;">About</h2>
+
+<span style="color:#eee;">
+Former competitive gaming content creator focused on
+<strong>e-sports and tournament play</strong>.
+Stepped away when the scene shifted.
+Now building and playing <strong>without pressure</strong> —
+sometimes competitive, sometimes chill.
+Side projects > trends.
+</span>
 
 ---
 
 <p align="center">
-  <sub>no schedule · just programming</sub>
+  <sub style="color:#bbb;">
+    no schedule · just programming
+  </sub>
 </p>
