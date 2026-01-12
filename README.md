@@ -42,10 +42,6 @@ Thanks for dropping in. Means a lot.  — Kai
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kill3rKai&theme=dracula&hide_border=true" alt="Streak" />
-</p>
-
-<p align="center">
   <sub>
     no schedule · just programming
   </sub>
