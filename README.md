@@ -1,8 +1,4 @@
 <h1 align="center">Kill3rKai</h1>
-<p align="center">
-  Programmer
-</p>
-
 ---
 
 ## Projects
