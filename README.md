@@ -43,6 +43,7 @@ Thanks for dropping in. Means a lot.  — Kai
 
 <p align="center">
   <sub>
-    no schedule · just programming
+    no schedule · just programming • 
+    <img src="https://img.shields.io/github/last-commit/Kill3rKai/Kill3rKai?color=ff69b4&label=last%20update&logo=github" alt="last update" />
   </sub>
 </p>
