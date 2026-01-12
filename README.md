@@ -31,19 +31,15 @@ sometimes competitive, sometimes chill.
 
 ---
 
-## 🚧 Projects
+## Projects
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Kill3rKai/Lilly_V2.5">
-        <img src="https://img.shields.io/badge/Lilly%20AI-in%20progress-e660b4?style=for-the-badge&logo=robot-framework&logoColor=white" />
-      </a>
-      <br />
-      <sub>Repository contains project info — not source.</sub>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://github.com/Kill3rKai/Lilly_V2.5">
+    <img src="https://img.shields.io/badge/Lilly%20AI-in%20progress-ff69b4?style=for-the-badge" />
+  </a>
+</p>
+
+> Repository contains project info — not source.
 
 ---
 
