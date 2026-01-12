@@ -1,15 +1,10 @@
 <!-- Header -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="iconfile.jpg" width="120" alt="Kill3rKai logo" />
-    </td>
-    <td align="center">
-      <h1 style="margin: 0;">Kill3rKai</h1>
-      <sub>Programmer</sub>
-    </td>
-  </tr>
-</table>
+<header>
+  <div class="row centered-content">
+    <img src="iconfile.jpg" alt="Kill3rKai logo" class="logo">
+    <h1>Kill3rKai</h1>
+  </div>
+</header>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?center=true&pause=2500&width=500&lines=building+things+at+my+own+pace;side+projects+over+hype;clean+systems+over+noise" />
