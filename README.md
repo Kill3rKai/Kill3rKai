@@ -12,7 +12,7 @@ She's a pink-themed AI with a bit of personality...
 I like to work on projects when I get an idea.  
 I can't help myself but do my idea as soon as possible after I get it.
 
-Thanks for stopping by — appreciate it.  — Kai
+Thanks for stopping by. Appreciate it.  — Kai
 
 ---
 
