@@ -1,6 +1,6 @@
 <h1 align="center">Kill3rKai</h1>
 <p align="center">
-  programmer · builder · games without the meta
+  Programmer
 </p>
 
 <p align="center">
