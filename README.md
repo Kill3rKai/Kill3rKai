@@ -11,6 +11,7 @@ She's a pink-themed AI with a bit of personality...
 
 No im playing. She's an AI im making who, to put into perspective, named herself.
 I like to on projects when i get an idea
+
 I cant help myself but do my idea as soon as possible after i get it 
 
 Thanks for stopping by — appreciate it.  
