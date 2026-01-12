@@ -1,5 +1,7 @@
 <h1 align="center">Kill3rKai</h1>
 
+---
+
 ## Projects
 
 <p align="left">
