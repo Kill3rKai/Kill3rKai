@@ -42,11 +42,9 @@ Thanks for dropping in. Means a lot.  — Kai
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kill3rKai&theme=dracula&hide_border=true&date_format=M+j%5B%2C+Y%5D" alt="Contribution Streak" />
-</p>
-
-<p align="center">
   <sub>
     no schedule · just programming
   </sub>
+  <br>
+  <img src="https://img.shields.io/badge/dynamic/json?color=ff69b4&label=days%20since%20last%20commit&query=%24.value&suffix=%20days&url=https%3A%2F%2Fgithub-readme-stats-git-master-kill3rkai.vercel.app%2Fapi%2Fdays-since-last-commit%3Fusername%3DKill3rKai" alt="Days since last commit" />
 </p>
