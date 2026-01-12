@@ -1,5 +1,10 @@
 <h1 align="center">Kill3rKai</h1>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?center=true&pause=1500&width=435&lines=cripplingly+addicted+to+coding;building+at+2+a.m.;pink+AI+in+progress&color=ff69b4&background=111111" />
+</p>
+
 ---
 
 # About
@@ -14,7 +19,7 @@ Can't leave ideas sitting there unfinished, it physically hurts me lol.
 ### Lilly AI  
 Main thing eating my time right now is **Lilly AI**.  
 Pink-themed, chaotic in the best way. Still very much in progress...  
-There is a [website](https://kill3rkai.github.io/SocialLinks/) i have for my socials that tracks her progress you can see.  
+Progress updates and more links are on my site: [website](https://kill3rkai.github.io/SocialLinks/)   
 The same site will show you if i have new projects coming up — though, you can see the same here
 
 ---
