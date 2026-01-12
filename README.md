@@ -3,10 +3,6 @@
   Programmer
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?center=true&pause=2500&width=460&lines=building+things+at+my+own+pace;side+projects+over+hype;clean+systems+over+noise" />
-</p>
-
 ---
 
 ## Projects
