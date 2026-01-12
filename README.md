@@ -29,6 +29,7 @@ No strict schedules, no hype — just building what interests me.
 ## Credits
 
 &nbsp;&nbsp;&nbsp;&nbsp;This is the first sentence of my indented paragraph.
+
 **Website Design & Development**  By Kill3rKai  
 **Starring**                      Diablo The Snake  
                                   Lilly The AI Overlord
