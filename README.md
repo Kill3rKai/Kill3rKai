@@ -3,8 +3,8 @@
 ---
 
 # About
-
 ---
+
 ### Me
 I'm Kai. A Programmer. *Cripplingly addicted to coding.*
 
