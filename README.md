@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="Images/iconfile.jpg" width="120" alt="Kill3rKai logo" />
+      <img src="iconfile.jpg" width="120" alt="Kill3rKai logo" />
     </td>
     <td align="center">
       <h1 style="margin: 0;">Kill3rKai</h1>
