@@ -10,6 +10,7 @@ When an idea hits, I drop everything and start building it — usually at 2 a.m.
 Can't leave ideas sitting there unfinished, it physically hurts me lol.
 
 ### Lilly AI  
+---
 Main thing eating my time right now is **Lilly AI**.  
 Pink-themed, chaotic in the best way. Still very much in progress...  
 There is a [website](https://kill3rkai.github.io/SocialLinks/) i have for my socials that tracks her progress you can see.  
