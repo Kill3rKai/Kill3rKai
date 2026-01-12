@@ -26,9 +26,6 @@ Stepped away when the scene shifted.
 Now building and playing **without pressure** —  
 sometimes competitive, sometimes chill.
 
-> Side projects over trends.  
-> Clean systems over noise.
-
 ---
 
 ## Projects
