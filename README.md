@@ -1,22 +1,19 @@
 <h1 align="center">Kill3rKai</h1>
-
 ---
-
 ## About
 
 I'm Kai — a programmer who builds at my own pace. *im cripplingly addicted to programming*
 
-My main focus right now is <span class="highlight">**Lilly AI**</span> — my personal project that's slowly taking shape.  
+My main focus right now is **Lilly AI** — my personal project that's slowly taking shape.  
 She's a pink-themed AI with a bit of personality...
 
-I like to work on projects when i get an idea.
-I cant help myself but do my idea as soon as possible after i get it.
+I like to work on projects when I get an idea.  
+I can't help myself but do my idea as soon as possible after I get it.
 
 Thanks for stopping by — appreciate it.  
 — Kai
 
 ---
-
 ## Projects
 
 <p align="left">
@@ -28,7 +25,6 @@ Thanks for stopping by — appreciate it.
 > Repository contains project info — not source.
 
 ---
-
 <p align="center">
   <sub>
     no schedule · just programming
