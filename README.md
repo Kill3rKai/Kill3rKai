@@ -29,8 +29,6 @@ Side projects > trends.
     <img src="https://img.shields.io/badge/Lilly%20AI-in%20progress-ff69b4?style=for-the-badge" />
   </a>
 </p>
-
-**Lilly AI** 
 > Repository contains project info — not source.
 
 
