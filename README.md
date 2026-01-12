@@ -10,18 +10,27 @@
   </a>
 </p>
 
-> Repository contains project info — not source.
+> Repository contains project info & documentation — source code stays private 👀
 
 ---
 
 ## About
 
-Former competitive gaming content creator focused on  
-**e-sports and tournament play**.
+Hey, I'm Kai — a programmer building things at my own pace.
 
-Stepped away when the scene shifted.  
-Now building and playing **without pressure** —  
-sometimes competitive, sometimes chill.
+I'm currently working on **Lilly AI**, my main passion project.  
+She's a pink-themed AI that's slowly coming to life — and yes, **she named herself**.
+
+I enjoy clean code, side projects, and experimenting with new ideas.  
+No strict schedules, no hype — just building what interests me.
+
+---
+
+## Credits
+
+**Website Design & Development**  By Kill3rKai  
+**Starring**  Diablo The Snake  
+        Lilly The AI Overlord
 
 ---
 
