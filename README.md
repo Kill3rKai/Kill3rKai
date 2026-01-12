@@ -6,7 +6,7 @@
 
 I'm Kai — a programmer who builds at my own pace. *im cripplingly addicted to programming*
 
-My main focus right now is <strong>**Lilly AI**</strong> — my personal project that's slowly taking shape.  
+My main focus right now is <span class="highlight">**Lilly AI**</span> — my personal project that's slowly taking shape.  
 She's a pink-themed AI with a bit of personality...
 
 I like to work on projects when i get an idea.
