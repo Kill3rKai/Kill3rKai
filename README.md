@@ -46,3 +46,4 @@ Thanks for dropping in. Means a lot.  — Kai
     no schedule • just programming  
   </sub>
 </p>
+<!-- move projects above About when more projects are done or in progress -->
