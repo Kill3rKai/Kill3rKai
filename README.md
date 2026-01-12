@@ -25,7 +25,7 @@ Thanks for stopping by — appreciate it.
   </a>
 </p>
 
-> Repository contains project info & documentation — source code stays private 👀
+> Repository contains project info — not source.
 
 ---
 
