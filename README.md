@@ -9,19 +9,6 @@
 
 ---
 
-## About
-
-Former competitive gaming content creator focused on  
-**e-sports and tournament play**.
-
-Stepped away when the scene shifted.  
-Now building and playing **without pressure** —  
-sometimes competitive, sometimes chill.
-
-Side projects > trends.
-
----
-
 ## Projects
 
 <p align="left">
@@ -32,6 +19,18 @@ Side projects > trends.
 
 > Repository contains project info — not source.
 
+---
+
+## About
+
+Former competitive gaming content creator focused on  
+**e-sports and tournament play**.
+
+Stepped away when the scene shifted.  
+Now building and playing **without pressure** —  
+sometimes competitive, sometimes chill.
+
+Side projects > trends.
 
 ---
 <p align="center">
