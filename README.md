@@ -1,4 +1,17 @@
-<h1 align="center">Kill3rKai</h1>
+<div align="center">
+
+  <img src="./Images/iconfile.jpg" alt="Kill3rKai logo" style="height:100px; vertical-align:middle; margin-right:20px;">
+  <h1 style="display:inline; vertical-align:middle; margin:0; color:#eee;">Kill3rKai</h1>
+
+</div>
+
+<p align="center" style="color:#bbb; margin-top:8px;">
+  Programmer
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?center=true&pause=2500&width=460&lines=building+things+at+my+own+pace;side+projects+over+hype;clean+systems+over+noise&color=EEE&background=111000" />
+</p>
 
 ---
 
@@ -17,17 +30,16 @@
 ## About
 
 Former competitive gaming content creator focused on  
-**e-sports and tournament play**.
-
+**e-sports and tournament play**.  
 Stepped away when the scene shifted.  
 Now building and playing **without pressure** —  
-sometimes competitive, sometimes chill.
-
+sometimes competitive, sometimes chill.  
 Side projects > trends.
 
 ---
+
 <p align="center">
-  <sub>
+  <sub style="color:#bbb;">
     no schedule · just programming
   </sub>
 </p>
