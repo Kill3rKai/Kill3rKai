@@ -4,6 +4,7 @@
 
 # About
 
+#### Me
 I'm Kai. A Programmer. *Cripplingly addicted to coding.*
 
 When an idea hits, I drop everything and start building it — usually at 2 a.m. because why not. *Insomnia...*  
