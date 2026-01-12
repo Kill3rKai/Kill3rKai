@@ -4,15 +4,18 @@
 
 ## About
 
-I'm Kai — a programmer who builds at my own pace. *im cripplingly addicted to programming*
+I'm Kai. A Programmer. *Cripplingly addicted to coding.*
 
-My main focus right now is **Lilly AI**. my personal project that's slowly taking shape.  
-She's a pink-themed AI with a bit of personality...
+When an idea hits, I drop everything and start building it — usually at 2 a.m. because why not. *Insomnia...*  
+Can't leave ideas sitting there unfinished, it physically hurts me lol.
 
-I like to work on projects when I get an idea.  
-I can't help myself but do my idea as soon as possible after I get it.
+Main thing eating my time right now is **Lilly AI**.  
+Pink-themed, chaotic in the best way. Still very much in progress...
 
-Thanks for stopping by. Appreciate it.  — Kai
+I mess around with Python, JS, some web things, AI experiments — whatever catches my attention that week.  
+No schedules. Just code.
+
+Thanks for dropping in. Means a lot.  — Kai
 
 ---
 
