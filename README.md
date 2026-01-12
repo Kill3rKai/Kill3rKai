@@ -33,6 +33,13 @@ Side projects > trends.
 **Lilly AI** 
 > Repository contains project info — not source.
 
+
+---
+
+<p align="center">
+  <img src="https://github.com/Kill3rKai/Kill3rKai/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 <p align="center">
