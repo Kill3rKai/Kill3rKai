@@ -39,16 +39,6 @@ sometimes competitive, sometimes chill.
 
 ---
 
-## 🧩 Tech / Interests
-
-<p>
-  <img src="https://img.shields.io/badge/Systems-Clean-171717?style=flat&labelColor=111111" />
-  <img src="https://img.shields.io/badge/Focus-Long%20Term-171717?style=flat&labelColor=111111" />
-  <img src="https://img.shields.io/badge/Style-Minimal-171717?style=flat&labelColor=111111" />
-</p>
-
----
-
 <p align="center">
   <sub>no schedule · just programming</sub>
 </p>
