@@ -9,8 +9,8 @@ I'm Kai — a programmer who builds at my own pace. *im cripplingly addicted to 
 My main focus right now is <a class="contact" href="https://github.com/Kill3rKai/Lilly_V2.5" target="_blank">**Lilly AI**</a> — my personal project that's slowly taking shape.  
 She's a pink-themed AI with a bit of personality...
 
-I like to on projects when i get an idea
-I cant help myself but do my idea as soon as possible after i get it 
+I like to work on projects when i get an idea.
+I cant help myself but do my idea as soon as possible after i get it.
 
 Thanks for stopping by — appreciate it.  
 — Kai
