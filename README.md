@@ -8,7 +8,7 @@
 ### About
 I'm Kai. A Programmer. *Cripplingly addicted to coding.*  
 When an idea hits, I drop everything and start building it — usually at 2 a.m. because why not. *Insomnia...*  
-Can't leave ideas sitting there unfinished, it physically hurts me lol.
+I can't leave ideas sitting, it physically hurts me lol.
 
 ---
 
