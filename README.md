@@ -13,7 +13,7 @@ Can't leave ideas sitting there unfinished, it physically hurts me lol.
 
 ---
 
-# Projects
+### Projects
 
 <p align="left">
   <a href="https://github.com/Kill3rKai/Lilly_V2.5">
