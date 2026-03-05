@@ -9,7 +9,7 @@
 I'm Kai. A Programmer. *Cripplingly addicted to coding.*  
 When an idea hits, I drop everything and start building it — usually at 2 a.m. because why not. *Insomnia...*  
 I can't leave ideas sitting, it physically hurts me lol.  
-i have a website showing my social links and projects here: [SocialLinks](https://kill3rkai.ai/)   
+i have a website showing my social links and projects here: [Kill3rKai.AI](https://kill3rkai.ai/)   
   
 Thanks for stopping by, appreciate you. - Kai
 
