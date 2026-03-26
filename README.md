@@ -33,7 +33,7 @@ Thanks for stopping by, appreciate you. - Kai
   </sub>
 </p>
 
-# Skills
+# Skills & Tech Stack
 <p align="center">
   <img src="skillset.png" alt="Centered Image">
 </p>
