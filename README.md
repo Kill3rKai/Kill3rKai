@@ -33,8 +33,7 @@ Thanks for stopping by, appreciate you. - Kai
   </sub>
 </p>
 
-# // skills & tech stack
-──────────────────────────────────────────  
-&nbsp;Languages  
-&nbsp;&nbsp;HTML  CSS  JavaScript  Python  C  C++  C#  Java
-    PHP  TypeScript  SQL
+# Skills
+<p align="center">
+  <img src="skillset.png" alt="Centered Image">
+</p>
