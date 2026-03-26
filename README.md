@@ -32,4 +32,9 @@ Thanks for stopping by, appreciate you. - Kai
     no schedule • just programming  
   </sub>
 </p>
-<!-- move projects above About when more projects are done or in progress -->
+
+# // skills & tech stack
+──────────────────────────────────────────
+&nbsp;Languages  
+&nbsp;&nbsp;HTML  CSS  JavaScript  Python  C  C++  C#  Java
+    PHP  TypeScript  SQL
