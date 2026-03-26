@@ -27,13 +27,13 @@ Thanks for stopping by, appreciate you. - Kai
 
 ---
 
+# Skills & Tech Stack
+<p align="center">
+  <img src="skillset.png" alt="Centered Image">
+</p>
+
 <p align="center">
   <sub>
     no schedule • just programming  
   </sub>
-</p>
-
-# Skills & Tech Stack
-<p align="center">
-  <img src="skillset.png" alt="Centered Image">
 </p>
