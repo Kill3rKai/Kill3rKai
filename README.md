@@ -22,6 +22,11 @@ Thanks for stopping by, appreciate you. - Kai
     <img src="https://img.shields.io/badge/Lilly%20AI-in%20progress-ff69b4?style=for-the-badge" />
   </a>
 </p>
+<p align="left">
+  <a href="https://kill3rkai.ai/lilly">
+    <img src="https://img.shields.io/badge/CyberCraft%20-in%20progress-ff69b4?style=for-the-badge" />
+  </a>
+</p>
 
 > Repository contains project info. not source code.
 
