@@ -9,24 +9,39 @@
 I'm Kai. A Programmer. *Cripplingly addicted to coding.*  
 When an idea hits, I drop everything and start building it — usually at 2 a.m. because why not. *Insomnia...*  
 I can't leave ideas sitting, it physically hurts me lol.  
-i have a website showing my social links and projects here: [Kill3rKai.ai](https://kill3rkai.ai/)   
-  
+i have a website showing my social links and projects here: [Kill3rKai.ai](https://kill3rkai.ai/)  
+
 Thanks for stopping by, appreciate you. - Kai
 
 ---
 
-### Projects
+### Skills
 
+```
+// languages
+HTML · CSS · JavaScript · TypeScript · Python · C · C++ · C# · Java · PHP · SQL
+
+// frameworks & libraries
+TensorFlow · PyTorch · Keras · Node.js · .NET
+
+// tools & platforms
+Git · GitHub · VS Code · Wireshark · Nmap · Metasploit · Netcat · Hashcat · Aircrack-ng · Bettercap
+
+// currently learning
+TypeScript · PHP
+
+// vibe
+dark mode enjoyer · terminal aesthetic · building at 2am
+```
+
+---
+
+### Projects
 <p align="left">
   <a href="https://github.com/Kill3rKai/Lilly_V2.5">
     <img src="https://img.shields.io/badge/Lilly%20AI-in%20progress-ff69b4?style=for-the-badge" />
   </a>
 </p>
-<!--<p align="left">
-  <a href="https://kill3rkai.ai/lilly">
-    <img src="https://img.shields.io/badge/CyberCraft%20-in%20progress-ff69b4?style=for-the-badge" />
-  </a>
-</p> -->
 
 > Repository contains project info. not source code.
 
