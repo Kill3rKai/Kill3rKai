@@ -26,7 +26,7 @@ Thanks for stopping by, appreciate you. - Kai
 
 ---
 
-### Skills
+### Skillset
 
 **Languages**
 
