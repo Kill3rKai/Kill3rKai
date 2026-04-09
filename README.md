@@ -15,6 +15,15 @@ Thanks for stopping by, appreciate you. - Kai
 
 ---
 
+### Projects
+<p align="left">
+  <a href="https://github.com/Kill3rKai/Lilly_V2.5">
+    <img src="https://img.shields.io/badge/Lilly%20AI-in%20progress-ff69b4?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
 ### Skills
 
 **Languages**
@@ -100,13 +109,6 @@ Thanks for stopping by, appreciate you. - Kai
 </p>
 
 ---
-
-### Projects
-<p align="left">
-  <a href="https://github.com/Kill3rKai/Lilly_V2.5">
-    <img src="https://img.shields.io/badge/Lilly%20AI-in%20progress-ff69b4?style=for-the-badge" />
-  </a>
-</p>
 
 > Repository contains project info. not source code.
 
