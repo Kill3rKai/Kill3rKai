@@ -17,7 +17,7 @@ Thanks for stopping by, appreciate you. - Kai
 
 ### Projects
 <p align="left">
-  <a href="https://kill3rkai.ai/lilly">
+  <a href="https://kill3rkai.ai/lilly" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Lilly%20AI-in%20progress-ff69b4?style=for-the-badge" />
   </a>
 </p>
