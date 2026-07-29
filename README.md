@@ -22,7 +22,7 @@ Thanks for stopping by, appreciate you. - Kai
   </a>
 </p>
 
-> Repository contains project info. not source code.
+> Web page contains project info. not source code.
 
 ---
 
