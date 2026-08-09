@@ -63,8 +63,6 @@ learning:  Assembly
 <td width="50%" valign="top">
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kill3rKai&show_icons=true&hide_title=true&theme=chartreuse-dark&hide_border=true&bg_color=111111&icon_color=00C8FF&text_color=00C8FF" width="100%"/>
-
 </div>
 </td>
 </tr>
