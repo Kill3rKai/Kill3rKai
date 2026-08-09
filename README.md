@@ -136,7 +136,7 @@ learning:  PHP
 
 <div align="center">
 
-**currently compiling:** ![](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=00FF41)
+**currently compiling:** ![](https://img.shields.io/badge/Assembly-000000?style=flat-square&logo=php&logoColor=00FF41)
 
 </div>
 
