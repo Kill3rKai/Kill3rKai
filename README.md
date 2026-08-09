@@ -70,8 +70,6 @@ learning:  Assembly
 </tr>
 </table>
 
-> Swap `Kill3rKai` above for your real GitHub username if it differs — the stats card only renders for an actual account.
-
 ### ⚙ Stack
 
 <table align="center">
