@@ -26,6 +26,9 @@ I can't leave ideas sitting, it physically hurts me lol.
 <a href="https://kill3rkai.ai/lilly">
 <img src="https://img.shields.io/badge/LILLY_AI-●_COMPLETE-00C8FF?style=for-the-badge&labelColor=111111" />
 </a>
+<a href="https://kill3rkai.ai/lilly">
+<img src="https://img.shields.io/badge/LILLY_AI-●_INCOMPLETE-00C8FF?style=for-the-badge&labelColor=111111" />
+</a>
 
 <sub>web page has project info — source not public</sub>
 
