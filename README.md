@@ -29,7 +29,7 @@ I can't leave ideas sitting, it physically hurts me lol.
 
 <sub>web page has project info — source not public</sub>
 
-<a href="https://kill3rkai.ai/lilly">
+<a href="https://kill3rkai.ai/kill3ros">
 <img src="https://img.shields.io/badge/KILL3R_OS-●_INCOMPLETE-00C8FF?style=for-the-badge&labelColor=111111" />
 </a>
 
